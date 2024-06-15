@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "typewriterOffset": 0.5,
+  "typewriterOffset": 0.55,
   "zenEnabled": true,
-  "zenOpacity": 0.25
+  "zenOpacity": 1
 }

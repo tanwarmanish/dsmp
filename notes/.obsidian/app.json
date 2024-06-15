@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "vimMode": true,
   "trashOption": "system",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }

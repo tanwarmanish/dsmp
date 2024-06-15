@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Python/Python.md",
+                "file": "01_Python/Basics.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -81,29 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "130a4b78d7be153d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01_Python/Python.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "51f70955d6340e4e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Python/Python.md",
+                "file": "01_Python/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Python/Python.md"
+                "file": "01_Python/Basics.md"
               }
             }
           }
@@ -149,7 +132,7 @@
   },
   "active": "c519146d187740e2",
   "lastOpenFiles": [
-    "01_Python/Python.md",
+    "01_Python/Basics.md",
     "999_assets",
     "01_Python",
     "Testing.md"

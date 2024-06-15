@@ -4,7 +4,8 @@
   "interfaceFontFamily": "Victor Mono",
   "textFontFamily": "Victor Mono",
   "monospaceFontFamily": "Victor Mono",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": true,
+  "nativeMenus": true
 }
